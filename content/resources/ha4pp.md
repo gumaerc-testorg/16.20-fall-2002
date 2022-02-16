@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Practice Problems
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-20-structural-mechanics-fall-2002/2df3678cbe19040e0c59a82a7394de57_ha4pp.pdf
+file: /media/courses/16-20-structural-mechanics-fall-2002/2df3678cbe19040e0c59a82a7394de57_ha4pp.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ha4pp.pdf
 uid: 2df3678c-be19-040e-0c59-a82a7394de57

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Unit 1: Introduction and Design Overview'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-20-structural-mechanics-fall-2002/300f300b5ffb690a004ef267db44065c_unit1.pdf
+file: /media/courses/16-20-structural-mechanics-fall-2002/300f300b5ffb690a004ef267db44065c_unit1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: unit1.pdf
 uid: 300f300b-5ffb-690a-004e-f267db44065c

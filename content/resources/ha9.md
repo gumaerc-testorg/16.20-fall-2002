@@ -3,8 +3,13 @@ content_type: resource
 description: 'HOME ASSIGNMENT #9
 
   (accompanies Design Problem #4)'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-20-structural-mechanics-fall-2002/0f4a1ec92539e51d03a62eb88be2e537_ha9.pdf
+file: /media/courses/16-20-structural-mechanics-fall-2002/0f4a1ec92539e51d03a62eb88be2e537_ha9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ha9.pdf
 uid: 0f4a1ec9-2539-e51d-03a6-2eb88be2e537

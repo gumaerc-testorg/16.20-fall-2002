@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'DESIGN PROBLEM #1'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-20-structural-mechanics-fall-2002/03277dfd9f638c81eca74b52fb06bb52_dp1.pdf
+file: /media/courses/16-20-structural-mechanics-fall-2002/03277dfd9f638c81eca74b52fb06bb52_dp1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: dp1.pdf
 uid: 03277dfd-9f63-8c81-eca7-4b52fb06bb52
