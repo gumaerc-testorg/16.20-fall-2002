@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -594,7 +595,7 @@ L49, R; L50
 
 {{< tableclose >}}
 
-{{< sup "\\*" >}} R: Rivello. _Theory and Analysis of Flight Structures_. McGraw-Hill, 1969.
+{{< sup "\*" >}} R: Rivello. _Theory and Analysis of Flight Structures_. McGraw-Hill, 1969.
 
 T&G: Timoshenko, and Goodier. _Theory of Elasticity_. McGraw-Hill, 1970.
 
