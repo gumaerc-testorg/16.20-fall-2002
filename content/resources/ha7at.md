@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/bf949330abf07c9717f82c3f0e5f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ha7at.pdf
 uid: bf949330-abf0-7c97-17f8-2c3f0e5f3ac1
 ---
 Application Tasks
-

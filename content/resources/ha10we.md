@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/a56ab366dd06f91886d5316d6103
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ha10we.pdf
 uid: a56ab366-dd06-f918-86d5-316d61034a6e
 ---
 Solution to Home Assignment #10: Warm-up Exercise
-

@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/a29c1d3482b4f99d1812f4537fbe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dp2.pdf
 uid: a29c1d34-82b4-f99d-1812-f4537fbe8367
 ---
 DESIGN PROBLEM #2
-

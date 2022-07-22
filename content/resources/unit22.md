@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/af1f62cb1410ae746468a2854ac4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: unit22.pdf
 uid: af1f62cb-1410-ae74-6468-a2854ac489db
 ---
 Unit 22: Vibration of Multi Degree-Of- Freedom Systems
-

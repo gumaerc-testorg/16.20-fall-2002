@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/15610a00dfce40d899a2ea0cbe41
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: unit11.pdf
 uid: 15610a00-dfce-40d8-99a2-ea0cbe414e57
 ---
 Unit 11: Membrane Analogy (for Torsion)
-

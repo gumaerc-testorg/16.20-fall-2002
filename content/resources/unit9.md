@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/9116903dab61fcd685f268bd3c97
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: unit9.pdf
 uid: 9116903d-ab61-fcd6-85f2-68bd3c97f733
 ---
 Unit 9: Effects of the Environment
-

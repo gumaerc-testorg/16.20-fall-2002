@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/098b92fbd5204703de1c967dd04e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

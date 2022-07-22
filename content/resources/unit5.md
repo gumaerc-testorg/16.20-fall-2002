@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/e8a043d5aa122d7e29c8935de039
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: unit5.pdf
 uid: e8a043d5-aa12-2d7e-29c8-935de039156c
 ---
 Unit 5: Engineering Constants
-

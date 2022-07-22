@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/c7790c79f040cf6b5ead71d56c9c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: unit18.pdf
 uid: c7790c79-f040-cf6b-5ead-71d56c9c80e5
 ---
 Unit 18: Other Issues In Buckling/Structural Instability
-

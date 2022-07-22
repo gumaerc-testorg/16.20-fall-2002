@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/f709a85561f107a3f332e1655562
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ha1.pdf
 uid: f709a855-61f1-07a3-f332-e1655562dc5b
 ---
 HOME ASSIGNMENT #1
-

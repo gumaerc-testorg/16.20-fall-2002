@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/962867297579d9c021730d256750
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ha8we.pdf
 uid: 96286729-7579-d9c0-2173-0d256750ed62
 ---
 Solution to Home Assignment #8: Warm-up Exercises
-

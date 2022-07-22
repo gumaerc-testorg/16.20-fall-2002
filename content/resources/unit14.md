@@ -7,6 +7,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/13881c48c7c4654e4b5b689cb698
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 13881c48-c7c4-654e-4b5b-689cb6987803
 ---
 Unit 14: Behavior of General (including
 Unsymmetric Cross-section) Beams
-

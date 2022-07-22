@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/9fb9073e6163cd6c908b07c42ecc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: unit17.pdf
 uid: 9fb9073e-6163-cd6c-908b-07c42eccd1c5
 ---
 Unit 17: The Beam-Column
-

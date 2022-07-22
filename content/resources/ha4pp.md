@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/2df3678cbe19040e0c59a82a7394
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ha4pp.pdf
 uid: 2df3678c-be19-040e-0c59-a82a7394de57
 ---
 Practice Problems
-

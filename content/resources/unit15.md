@@ -5,6 +5,7 @@ file: /courses/16-20-structural-mechanics-fall-2002/4cf827d1c01654ac668b1576e93f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: unit15.pdf
 uid: 4cf827d1-c016-54ac-668b-1576e93f7bcd
 ---
 Unit 15: Shearing and Torsion (and Bending) of Shell Beams
-
