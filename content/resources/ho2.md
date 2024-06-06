@@ -2,6 +2,7 @@
 content_type: resource
 description: 'HANDOUT #2 Review of General Elasticity'
 file: /courses/16-20-structural-mechanics-fall-2002/f3afb8471fa0b58366cebcad2a171375_ho2.pdf
+file_size: 429679
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'HOME ASSIGNMENT #8 (Part A)'
 file: /courses/16-20-structural-mechanics-fall-2002/165c073a19521fcf1059d595d42ee7df_ha8.pdf
+file_size: 121576
 file_type: application/pdf
 learning_resource_types:
 - Assignments

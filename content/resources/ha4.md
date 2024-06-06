@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Home Assignment #4'
 file: /courses/16-20-structural-mechanics-fall-2002/fa8de2703435b3ca46e3fe676db75aba_ha4.pdf
+file_size: 162177
 file_type: application/pdf
 learning_resource_types:
 - Assignments
