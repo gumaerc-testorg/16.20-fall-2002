@@ -2,6 +2,7 @@
 content_type: resource
 description: Practice Problems
 file: /courses/16-20-structural-mechanics-fall-2002/630ed29f7e1086ebe997479fc20adde9_ha1pp.pdf
+file_size: 131393
 file_type: application/pdf
 learning_resource_types:
 - Assignments

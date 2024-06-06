@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-20-structural-mechanics-fall-2002/9ab8e2ad4b440abc59d33dfdbbd54e13_unifiedtopics.pdf
+file_size: 81348
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

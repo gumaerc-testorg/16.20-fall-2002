@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Unit 5: Engineering Constants'
 file: /courses/16-20-structural-mechanics-fall-2002/e8a043d5aa122d7e29c8935de039156c_unit5.pdf
+file_size: 1197146
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
