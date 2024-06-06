@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Solution to Home Assignment #3: Warm-up Exercises'
 file: /courses/16-20-structural-mechanics-fall-2002/d05cfc2539165a0bee5ac0173b2feb44_ha3we.pdf
+file_size: 341931
 file_type: application/pdf
 learning_resource_types:
 - Assignments

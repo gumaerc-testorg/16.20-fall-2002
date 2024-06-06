@@ -2,6 +2,7 @@
 content_type: resource
 description: 'HANDOUT #4C'
 file: /courses/16-20-structural-mechanics-fall-2002/4acce42e3b9756c97be3a1c32936080f_ho4c.pdf
+file_size: 2300750
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

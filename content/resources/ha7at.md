@@ -2,6 +2,7 @@
 content_type: resource
 description: Application Tasks
 file: /courses/16-20-structural-mechanics-fall-2002/bf949330abf07c9717f82c3f0e5f3ac1_ha7at.pdf
+file_size: 352956
 file_type: application/pdf
 learning_resource_types:
 - Assignments

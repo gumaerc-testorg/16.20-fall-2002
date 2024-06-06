@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Unit 16: Bifurcation Buckling'
 file: /courses/16-20-structural-mechanics-fall-2002/6ab19ee4952e3f43a595e0c2a9350041_unit16.pdf
+file_size: 753662
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

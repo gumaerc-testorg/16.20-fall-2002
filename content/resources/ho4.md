@@ -2,6 +2,7 @@
 content_type: resource
 description: 'HANDOUT #4 General (Shell) Beam Theory'
 file: /courses/16-20-structural-mechanics-fall-2002/d7e27b3884c864ee34729f72151fc873_ho4.pdf
+file_size: 393188
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

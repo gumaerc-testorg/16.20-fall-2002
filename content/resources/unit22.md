@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Unit 22: Vibration of Multi Degree-Of- Freedom Systems'
 file: /courses/16-20-structural-mechanics-fall-2002/af1f62cb1410ae746468a2854ac489db_unit22.pdf
+file_size: 710902
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

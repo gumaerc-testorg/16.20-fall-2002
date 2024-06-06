@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Unit 17: The Beam-Column'
 file: /courses/16-20-structural-mechanics-fall-2002/9fb9073e6163cd6c908b07c42eccd1c5_unit17.pdf
+file_size: 475261
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
