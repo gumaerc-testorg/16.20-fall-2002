@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 21: Influence Coefficients'
-file: /courses/16-20-structural-mechanics-fall-2002/eec547b7a855e39415afcee080bc1a6d_unit21.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/eec547b7a855e39415afcee080bc1a6d_unit21.pdf
 file_size: 494875
 file_type: application/pdf
 learning_resource_types:
