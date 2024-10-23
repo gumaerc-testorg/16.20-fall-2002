@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 4: Equations of Elasticity'
-file: /courses/16-20-structural-mechanics-fall-2002/eaf046c2970c263862e604e70f89763e_unit4.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/eaf046c2970c263862e604e70f89763e_unit4.pdf
 file_size: 1080453
 file_type: application/pdf
 learning_resource_types:

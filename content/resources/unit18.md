@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 18: Other Issues In Buckling/Structural Instability'
-file: /courses/16-20-structural-mechanics-fall-2002/c7790c79f040cf6b5ead71d56c9c80e5_unit18.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/c7790c79f040cf6b5ead71d56c9c80e5_unit18.pdf
 file_size: 674881
 file_type: application/pdf
 learning_resource_types:
