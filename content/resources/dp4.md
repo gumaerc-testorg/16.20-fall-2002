@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'DESIGN PROBLEM #4: (and?HOME ASSIGNMENT #9)'
-file: /courses/16-20-structural-mechanics-fall-2002/b8cebfb871131bba054cd26d4bb5dfe8_dp4.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/b8cebfb871131bba054cd26d4bb5dfe8_dp4.pdf
 file_size: 67086
 file_type: application/pdf
 learning_resource_types:
