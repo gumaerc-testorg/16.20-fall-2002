@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 10: St. Venant Torsion Theory'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/e888339011c834eb2a02bd365fa25052_unit10.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/e888339011c834eb2a02bd365fa25052_unit10.pdf
 file_size: 680505
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 15: Shearing and Torsion (and Bending) of Shell Beams'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/4cf827d1c01654ac668b1576e93f7bcd_unit15.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/4cf827d1c01654ac668b1576e93f7bcd_unit15.pdf
 file_size: 1309425
 file_type: application/pdf
 learning_resource_types:

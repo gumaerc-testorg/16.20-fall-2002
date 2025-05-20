@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Solution to Home Assignment #8: Warm-up Exercises'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/962867297579d9c021730d256750ed62_ha8we.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/962867297579d9c021730d256750ed62_ha8we.pdf
 file_size: 124799
 file_type: application/pdf
 learning_resource_types:

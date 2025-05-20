@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'DESIGN PROBLEM #3'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/f1bfdc66754ad45f589ac8db6cae4f76_dp3.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/f1bfdc66754ad45f589ac8db6cae4f76_dp3.pdf
 file_size: 150528
 file_type: application/pdf
 learning_resource_types:

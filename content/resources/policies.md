@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/701a0a47e0bd830e40e957a27081b419_policies.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/701a0a47e0bd830e40e957a27081b419_policies.pdf
 file_size: 1707233
 file_type: application/pdf
 learning_resource_types: []

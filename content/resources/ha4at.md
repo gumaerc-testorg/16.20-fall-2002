@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Application Tasks
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/4239cc85a3ed9a67872e5a9cc3929662_ha4at.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/4239cc85a3ed9a67872e5a9cc3929662_ha4at.pdf
 file_size: 235831
 file_type: application/pdf
 learning_resource_types:

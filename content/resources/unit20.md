@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 20: Solutions for Single Spring-Mass Systems'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/609687cf29516e13e864ff310af328a7_unit20.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/609687cf29516e13e864ff310af328a7_unit20.pdf
 file_size: 744771
 file_type: application/pdf
 learning_resource_types:
