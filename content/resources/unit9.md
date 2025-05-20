@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 9: Effects of the Environment'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/9116903dab61fcd685f268bd3c97f733_unit9.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/9116903dab61fcd685f268bd3c97f733_unit9.pdf
 file_size: 1018344
 file_type: application/pdf
 learning_resource_types:

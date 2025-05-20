@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 8: Solution Procedures'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/16e96c32dac0072d2868cdc7d0c03148_unit8.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/16e96c32dac0072d2868cdc7d0c03148_unit8.pdf
 file_size: 944564
 file_type: application/pdf
 learning_resource_types:

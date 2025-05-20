@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Home Assignment # 9 Solution'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/6af4717673840993f4dd4b33ed9f9a5e_ha9at.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/6af4717673840993f4dd4b33ed9f9a5e_ha9at.pdf
 file_size: 1285621
 file_type: application/pdf
 learning_resource_types:

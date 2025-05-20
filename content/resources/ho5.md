@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'HANDOUT #5 Stability and Buckling'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/3b23795511db23968351d780075760c0_ho5.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/3b23795511db23968351d780075760c0_ho5.pdf
 file_size: 320879
 file_type: application/pdf
 learning_resource_types: []

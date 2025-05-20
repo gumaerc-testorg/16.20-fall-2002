@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 12: Torsion of (Thin) Closed Sections'
-file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/d01996bd6822461f4dcbdc3fbf2ea16f_unit12.pdf
+file: /courses/16-20-structural-mechanics-fall-2002/d01996bd6822461f4dcbdc3fbf2ea16f_unit12.pdf
 file_size: 407328
 file_type: application/pdf
 learning_resource_types:
