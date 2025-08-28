@@ -3,7 +3,7 @@ content_type: resource
 description: 'HOME ASSIGNMENT #9
 
   (accompanies Design Problem #4)'
-file: /courses/16-20-structural-mechanics-fall-2002/0f4a1ec92539e51d03a62eb88be2e537_ha9.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/0f4a1ec92539e51d03a62eb88be2e537_ha9.pdf
 file_size: 89640
 file_type: application/pdf
 learning_resource_types:

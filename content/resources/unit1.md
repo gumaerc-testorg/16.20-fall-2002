@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 1: Introduction and Design Overview'
-file: /courses/16-20-structural-mechanics-fall-2002/300f300b5ffb690a004ef267db44065c_unit1.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/300f300b5ffb690a004ef267db44065c_unit1.pdf
 file_size: 62812
 file_type: application/pdf
 learning_resource_types:
