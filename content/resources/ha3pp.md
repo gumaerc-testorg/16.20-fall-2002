@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice Problems
-file: /courses/16-20-structural-mechanics-fall-2002/7cd6fca6259c659f972fe48cea8effdc_ha3pp.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/7cd6fca6259c659f972fe48cea8effdc_ha3pp.pdf
 file_size: 1727401
 file_type: application/pdf
 learning_resource_types:

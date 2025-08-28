@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Unit 7: Transformations and Other Coordinate Systems'
-file: /courses/16-20-structural-mechanics-fall-2002/bbe5702eafe42a1721cc4ea53e9a53cc_unit7.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/bbe5702eafe42a1721cc4ea53e9a53cc_unit7.pdf
 file_size: 690495
 file_type: application/pdf
 learning_resource_types:
