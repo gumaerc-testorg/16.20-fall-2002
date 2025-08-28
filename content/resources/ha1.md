@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'HOME ASSIGNMENT #1'
-file: /courses/16-20-structural-mechanics-fall-2002/f709a85561f107a3f332e1655562dc5b_ha1.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/f709a85561f107a3f332e1655562dc5b_ha1.pdf
 file_size: 121099
 file_type: application/pdf
 learning_resource_types:

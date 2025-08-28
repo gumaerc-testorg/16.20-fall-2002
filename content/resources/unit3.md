@@ -3,7 +3,7 @@ content_type: resource
 description: 'Unit 3: (Review of) Language of
 
   Stress/Strain Analysis'
-file: /courses/16-20-structural-mechanics-fall-2002/09bfffbf0c5c38066a36fec298af0cd0_unit3.pdf
+file: /ol-ocw-studio-app/courses/16-20-structural-mechanics-fall-2002/09bfffbf0c5c38066a36fec298af0cd0_unit3.pdf
 file_size: 521379
 file_type: application/pdf
 learning_resource_types:
